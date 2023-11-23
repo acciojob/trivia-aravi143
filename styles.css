@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+p{
+	font-weight:700;
+}
+form{
+	display:flex;
+
+}
+blockquote{
+	Max-width: 600px;
+   Margin: 10px;
+   Padding: 15px;
+   Border-left: 8px solid green;
+   Background-color: #f8fffe;
+   Font-weight: Bold;
+}
